@@ -1,10 +1,9 @@
 # Streaming de Vídeos - Arquivos Binários em C
 
-**Entrega:** (individual / em dupla)
+**Entrega:** (individual)
 
-**Participantes:**
-- Nome Completo - RA 000000
-- (Nome do parceiro, se for dupla) - RA 000000
+**Participante:**
+- Giovanna Pessoa de Melo - RA 00000864265
 
 ## Descrição
 Programa em C que manipula dois arquivos binários relacionados:
@@ -19,12 +18,5 @@ Programa em C que manipula dois arquivos binários relacionados:
 - Remoção via arquivo temporário (copia tudo menos o removido, apaga o antigo e renomeia o novo)
 - Relatórios: usuários com os títulos dos favoritos e vídeos com os nomes de quem favoritou
 
-## Como compilar e executar
-```
-gcc -Wall -Wextra -o streaming main.c
-./streaming
-```
-Veja também `comandos.txt`.
-
 ## Vídeo de demonstração
-(link do YouTube)
+https://youtu.be/v6fZzPEQACQ
