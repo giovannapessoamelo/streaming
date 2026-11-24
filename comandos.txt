@@ -1,0 +1,17 @@
+COMANDOS PARA EXECUTAR O PROGRAMA (Streaming de Videos)
+
+1. Clonar o repositorio:
+   git clone <LINK_DO_SEU_REPOSITORIO>
+   cd <PASTA_DO_REPOSITORIO>
+
+2. Compilar (GCC):
+   gcc -Wall -Wextra -o streaming main.c
+
+3. Executar:
+   Linux / macOS:  ./streaming
+   Windows:        streaming.exe
+
+Observacoes:
+- Os arquivos videos.dat e usuarios.dat sao criados automaticamente
+  na pasta de execucao ao cadastrar o primeiro registro.
+- Para reiniciar os dados, basta apagar videos.dat e usuarios.dat.
