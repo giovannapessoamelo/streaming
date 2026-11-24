@@ -1,8 +1,8 @@
 COMANDOS PARA EXECUTAR O PROGRAMA (Streaming de Videos)
 
 1. Clonar o repositorio:
-   git clone <LINK_DO_SEU_REPOSITORIO>
-   cd <PASTA_DO_REPOSITORIO>
+   git clone https://github.com/giovannapessoamelo/streaming
+   cd streaming
 
 2. Compilar (GCC):
    gcc -Wall -Wextra -o streaming main.c
